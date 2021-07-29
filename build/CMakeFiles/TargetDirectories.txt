@@ -1,0 +1,2 @@
+/home/zsh/Code/myprojects/CHAT/chatserver/build/src/client/CMakeFiles/ChatClient.dir
+/home/zsh/Code/myprojects/CHAT/chatserver/build/src/server/CMakeFiles/ChatServer.dir
